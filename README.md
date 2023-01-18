@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aeternous -- Pranae Harirajan
-- 👀 I’m interested in Electrical and Aerospace engineering
-- 🌱 I’m currently learning Linux, ROS Noetic, Electrical mini-projects, and JavaScript
-- 💞️ I’m looking to collaborate on ROS learning, Electrical mini-projects, and some help on software overall
+- 👀 I’m interested in Electrical (sublayers: Firmware, ECE, CE, TeleCom, and Hardware) and Aerospace engineering
+- 🌱 I've currently completed courses in Linux, ROS, Javascript, and in-class engineering classes, like Honors Principles of Engineering, Honors Digital Engineering, and Honors Aerospace Engineering
+- 💞️ I’m looking to collaborate on towards my current 
 - 📫 How to reach me: my Discord is Slice #7321, the best way to contact me! My email is also, pranae.lazarbeam.13@gmail.com!
 
 <!---
