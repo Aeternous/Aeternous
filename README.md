@@ -1,7 +1,5 @@
 # Pranae Harirajan
 
-Electrical Engineering B.S. + M.S. student at **UC Riverside** (Control & Robotics focus). I work where hardware, robotics, and data meet, and I like projects that end up making a real decision: picking a flight controller, a trade, or a winner.
-
 ### Currently
 - **Senior design:** UCR Team 1 in the Dassault Systèmes university drone competition. I'm on the flight-controller team (PX4 vs. ArduPilot) and the telemetry team.
 - **President, ITE at UCR:** running the Institute of Transportation Engineers student chapter.
