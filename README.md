@@ -15,7 +15,7 @@ Electrical Engineering B.S. + M.S. student at **UC Riverside** (Control & Roboti
 
 ### Tools
 **Languages:** Python, C/C++, AVR Assembly
-**Robotics:** ROS 2, Gazebo, PX4 / ArduPilot, MATLAB Simulink
+**Robotics:** ROS 2, Gazebo, PX4 / ArduPilot, MATLAB Simulink --> Still learning all of em heh
 **Hardware:** ATmega328P, PlatformIO, LTspice, oscilloscopes, logic analyzers
 **Workflow:** Ubuntu, Docker, GitHub Actions, Claude Code
 
