@@ -5,7 +5,6 @@ Electrical Engineering B.S. + M.S. student at **UC Riverside** (Control & Roboti
 ### Currently
 - **Senior design:** UCR Team 1 in the Dassault Systèmes university drone competition. I'm on the flight-controller team (PX4 vs. ArduPilot) and the telemetry team.
 - **President, ITE at UCR:** running the Institute of Transportation Engineers student chapter.
-- **Taking:** Machine Learning & Data Mining, Robotic Planning & Kinematics.
 
 ### Projects
 | Project | What it does | Stack |
