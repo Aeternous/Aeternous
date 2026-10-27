@@ -11,7 +11,7 @@ Electrical Engineering B.S. + M.S. student at **UC Riverside** (Control & Roboti
 |---|---|---|
 | [Ballon-d-or-Predictions-ML](https://github.com/Aeternous/Ballon-d-or-Predictions-ML) | Simulates all 100 Ballon d'Or jurors from their past ballots. Picked Harry Kane for 2026 at 80% win probability; he won. | Python, Monte Carlo |
 | [trading-bot](https://github.com/Aeternous/trading-bot) | Moving-average stock strategy with backtesting and daily paper trading, plus a Claude MCP agent that screens new Solana tokens. | Python, Backtrader, Alpaca, GitHub Actions |
-| TurretLock | Real-time handheld game on an ATmega328P, programmed through hardware registers: timers, ADC, SPI, EEPROM, PWM servo. | C/C++, AVR-GCC |
+| [TurretLock](https://github.com/Aeternous/TurretLock) | Real-time handheld game on an ATmega328P, programmed through hardware registers: timers, ADC, SPI, EEPROM, PWM servo. | C/C++, AVR-GCC |
 
 ### Tools
 **Languages:** Python, C/C++, AVR Assembly
