@@ -1,4 +1,4 @@
-# Pranae Harirajan
+# Hi I'm Pranae Harirajan
 
 ### Currently
 - **Senior design:** UCR Team 1 in the Dassault Systèmes university drone competition. I'm on the flight-controller team (PX4 vs. ArduPilot) and the telemetry team.
